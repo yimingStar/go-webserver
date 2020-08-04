@@ -1,0 +1,1 @@
+time="2020-08-04T14:43:06+08:00" level=info msg="Starting server at port 5566" func=go-webservice/src/logger.WriteLog file="/Users/ericchang/go/src/go-webservice/src/logger/logger.go:31"
